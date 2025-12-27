@@ -739,6 +739,7 @@ class Terminal:
             shifted_dict = dict(zip(keys, shifted_values))
             self.__col_in_row = shifted_dict
             ic(self.curr_row, self.curr_col)
+            
 
     def delete_row(self, row_num: int, col_num: int = 1) -> None:
         """Delete a row in the Terminal object.
