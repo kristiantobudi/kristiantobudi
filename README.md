@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/kristiantobudi?logo=github&style=fo
 <a href="https://github.com/kristiantobudi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristiantobudi&langs_count=10&title_color=14b8a6&text_color=10b981&icon_color=444e59&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/USERNAME/REPO/output/github-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/kristiantobudi/kristiantobudi/output/github-snake-dark.svg" />
   <img alt="Snake animation"
-    src="https://raw.githubusercontent.com/USERNAME/REPO/output/github-snake.svg" />
+    src="https://raw.githubusercontent.com/kristiantobudi/kristiantobudi/output/github-snake.svg" />
 </picture>
